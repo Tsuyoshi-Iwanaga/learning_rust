@@ -1,4 +1,3 @@
-//Mutex
 use std::thread;
 use std::time::Duration;
 use std::sync::{Mutex, Arc};
