@@ -32,5 +32,6 @@ fn main() {
 
   th1.join().unwrap();
   th2.join().unwrap();
+
   println!("\ncounter={}", get_count());
 }
