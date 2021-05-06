@@ -2,7 +2,6 @@ use std::thread;
 use std::time::Duration;
 
 fn main() {
-
   //clojure
   let func = |c| {
     for i in 1..10 {
